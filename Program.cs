@@ -1,6 +1,6 @@
 ﻿using static System.Console;
 
-int[][] jagetArray = new int[24][];
+int[][] jagetArray = new int[24][];  //Comment for commit
 
 Random r = new Random();
 
