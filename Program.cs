@@ -2,7 +2,7 @@
 
 int[][] jagetArray = new int[24][];  //Comment for commit
 
-Random r = new Random();
+Random r = new Random();        //Next comment for commit
 
 int count = 0;
 
