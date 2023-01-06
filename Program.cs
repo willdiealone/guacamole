@@ -15,7 +15,7 @@ for (int i = 0; i < jagetArray.Length; i++)
 {
     count++;
     
-    Write($"{count}:");
+    Write($"{count}:");// cчетчик 
     
     for (int j = 0; j < jagetArray[i].Length; j++)
     {
